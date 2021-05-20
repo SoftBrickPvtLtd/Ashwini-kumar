@@ -199,7 +199,8 @@ Navigation bar
 
 }
 .navbar-brand img {
-    max-height:40px;
+    max-height: 60px;
+    margin-top: -7px;
 }
 @media (max-width:768px){
     .navbar-collapse {
